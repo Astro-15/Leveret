@@ -1,4 +1,4 @@
-# BunnyV2
+# Leveret
 The original version of Bunny only supported Discord versions up-to v275.0, This has a few more versions (with more to come, Maybe;)).
 This includes: 
 
