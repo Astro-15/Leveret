@@ -9,3 +9,4 @@ This includes:
 | v305.0 | 15.1 |
 
 Check put the original Bunny project [Here](https://github.com/bunny-mod).
+BTW: These are stock Discord iPA's injected with the Bunny.deb!!!! 
